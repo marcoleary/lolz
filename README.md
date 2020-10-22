@@ -28,6 +28,11 @@ Q. Why did the can crusher quit his job?
 A. Because it was soda pressing
 ```
 
+```
+Q. What's the best thing about UDP jokes
+A. I don't care if you get them
+```
+
 # GIFz
 
 Post leg-day in the gym:
@@ -54,3 +59,9 @@ LOL, exactly!
 Clever Cat!
 
 [![Clever Cat](https://i.ytimg.com/vi/OKsyMxUX7R0/hqdefault.jpg)](https://www.youtube.com/watch?v=OKsyMxUX7R0)
+
+#Extra
+
+For more programming based humour see the subreddit:
+
+[![LOL, exactly!](utility/programming-humour-logo.png)](https://www.reddit.com/r/ProgrammerHumor/)
