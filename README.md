@@ -2,11 +2,11 @@
 
 The rules are simple.
 
-- `git clone` the repo
+- Fork the repo
 - Make a new branch
 - Edit the README.md file
 - `git commit` the branch
-- Open a PR for your new branch
+- Open a PR for your new branch against this repo
 - Profit
 
 Please keep the humour clean, light and without prejudice. Rule breakers won't get their PRs merged.
@@ -29,6 +29,7 @@ A. Because it was soda pressing
 ```
 
 ```
+
 Me: "I'm not very hungry, I just want something easy"
 
 Server: "... maybe the chicken strips for £6?"
@@ -52,6 +53,16 @@ Just been on a diabetes awareness website and it asked me if I accept cookies.
 Is that a trick question?
 
 ```
+
+Q. What's the best thing about UDP jokes
+A. I don't care if you get them
+```
+
+```
+Q. Why are there no aspirin in the jungle?
+A. Because the parrots eat 'em all.
+```
+
 # GIFz
 
 Post leg-day in the gym:
