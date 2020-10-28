@@ -48,6 +48,18 @@ Is that a trick question?
 ```
 
 ```
+A hypnotist once convinced me I was a soft, malleable metal with the atomic number 82.
+
+I'm easily Lead.
+```
+
+```
+Just been on a diabetes awareness website and it asked me if I accept cookies.
+
+Is that a trick question?
+```
+
+```
 Q. What's the best thing about UDP jokes
 A. I don't care if you get them
 ```
