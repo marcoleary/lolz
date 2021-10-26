@@ -73,6 +73,24 @@ A. Because the parrots eat 'em all.
 Q. What's the fastest substance on Earth?
 A. Milk. It's pasteurised before you even see it.
 ```
+
+```
+Two atoms walk into a bar.
+The first one turns to the other and says "I think I've lost an electron!"
+The second one goes "Are you sure?"
+To which the first one replies "Yes I'm positive."
+```
+
+```
+If you ever feel like your job has no purpose, always remember right now, 
+there is someone who is installing a turn signal in a BMW
+```
+
+```
+When I lost my rifle, the Army charged me $85.
+That’s why in the Navy, the captain goes down with the ship.
+```
+
 # GIFz
 
 Post leg-day in the gym:
