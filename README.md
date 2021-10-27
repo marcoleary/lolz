@@ -24,6 +24,11 @@ A. “Well, well, well”
 ```
 
 ```
+Q. What do you get when you cross the Atlantic Ocean with the Titanic?
+A. Halfway.
+```
+
+```
 Q. Why did the can crusher quit his job?
 A. Because it was soda pressing
 ```
