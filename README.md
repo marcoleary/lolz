@@ -89,6 +89,14 @@ A. Because it's not stroganoff
 Q. What's the fastest substance on Earth?
 A. Milk. It's pasteurised before you even see it.
 ```
+
+```
+My grandfather always used to say, “As one door closes another opens.”
+
+Lovely man.
+
+Terrible cabinet maker.
+```
 # GIFz
 
 Post leg-day in the gym:
