@@ -24,6 +24,11 @@ A. “Well, well, well”
 ```
 
 ```
+Q. What do you get when you cross the Atlantic Ocean with the Titanic?
+A. Halfway.
+```
+
+```
 Q. Why did the can crusher quit his job?
 A. Because it was soda pressing
 ```
@@ -60,6 +65,12 @@ Is that a trick question?
 ```
 
 ```
+I was going to get a brain transplant...
+
+But I changed my mind.
+```
+
+```
 Q. What's the best thing about UDP jokes
 A. I don't care if you get them
 ```
@@ -67,6 +78,11 @@ A. I don't care if you get them
 ```
 Q. Why are there no aspirin in the jungle?
 A. Because the parrots eat 'em all.
+```
+
+```
+Q. Why can't you use beef stew as a password?
+A. Because it's not stroganoff
 ```
 
 ```
@@ -89,6 +105,14 @@ there is someone who is installing a turn signal in a BMW
 ```
 When I lost my rifle, the Army charged me $85.
 That’s why in the Navy, the captain goes down with the ship.
+```
+
+```
+My grandfather always used to say, “As one door closes another opens.”
+
+Lovely man.
+
+Terrible cabinet maker.
 ```
 
 # GIFz
