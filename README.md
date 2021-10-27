@@ -60,6 +60,12 @@ Is that a trick question?
 ```
 
 ```
+I was going to get a brain transplant...
+
+But I changed my mind.
+```
+
+```
 Q. What's the best thing about UDP jokes
 A. I don't care if you get them
 ```
