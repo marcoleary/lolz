@@ -81,6 +81,11 @@ A. Because the parrots eat 'em all.
 ```
 
 ```
+Q. Why can't you use beef stew as a password?
+A. Because it's not stroganoff
+```
+
+```
 Q. What's the fastest substance on Earth?
 A. Milk. It's pasteurised before you even see it.
 ```
